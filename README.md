@@ -19,4 +19,19 @@
 
 ### 🛠 Tech Stack
 
-<pre lang="markdown"> ```javascript const techStack = ["React", "Node", "Express", "MongoDB", "JavaScript", "HTML", "CSS", "Git"]; ``` </pre>
+<pre lang="markdown">  const techStack = ["React", "Node", "Express", "MongoDB", "JavaScript", "HTML", "CSS", "Git"];</pre>
+
+---
+
+### 💫 Beyond Code: The Creative Spark
+
+✨ I code with logic, but I live with passion. Here's a glimpse into the soulful side of me:
+
+- 🎸 **Guitar Enthusiast** – *Strings that echo emotions*  
+&nbsp;&nbsp;&nbsp;&nbsp;*From calm acoustic melodies to energetic riffs, music is my favorite language.*
+
+- 🖋️ **Poet at Heart** – *Words that paint silence*  
+&nbsp;&nbsp;&nbsp;&nbsp;*I find rhythm in language and peace in expression. Poetry grounds my thoughts and lifts my soul.*
+
+- ✈️ **Aviation Admirer** – *Dreams above the clouds*  
+&nbsp;&nbsp;&nbsp;&nbsp;*Fascinated by the elegance of flight and the engineering that makes it possible.*
