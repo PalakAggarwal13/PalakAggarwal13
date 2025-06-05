@@ -1,29 +1,23 @@
-<h1 align="center">Hi 👋, I'm Palak Aggarwal</h1>
-<h3 align="center">Web Developer | MERN Stack | Future GSoC Contributor | AI/ML Enthusiast</h3>
+<h1 align="center">👋 Hey there, I'm <span style="color:#6c63ff">Palak Aggarwal</span></h1>
+<h3 align="center">💻 MERN Stack Developer | 🌐 Web Enthusiast | 🧠 AI/ML Explorer | 🎯 Future GSoC Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+MongoDB;Open+Source+Contributor;Lifelong+Learner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Open+Source+Contributor;AI%2FML+Explorer;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 🌟 About Me
 
-- 🔭 I’m currently working on *MERN Stack Projects*
-- 🌱 Learning *AI/ML* for *GSoC 2026*
-- 💬 Ask me about *React, Node, MongoDB, Express, EJS*
-- 📫 Reach me at *[palakaggarwalaol@gmail.com](mailto:palakaggarwalaol@gmail.com)*  
-- ⚡ Fun fact: Code by day, chords by night, and cockpit dreams in between.
-
----
-
-### 🛠 Tech Stack
-
-<pre lang="markdown">  const techStack = ["React", "Node", "Express", "MongoDB", "JavaScript", "HTML", "CSS", "Git"];</pre>
+- 🚀 Currently crafting full-stack magic with **MERN Projects**
+- 📚 Diving deep into **AI/ML** for **GSoC 2026**
+- 💬 Let’s talk **React, Node.js, MongoDB, Express, EJS**
+- 📩 Reach me at: [palakaggarwalaol@gmail.com](mailto:palakaggarwalaol@gmail.com)
+- ⚡ *Code by day, chords by night, cockpit dreams in between.*
 
 ---
 
-### 💫 Beyond Code: The Creative Spark
+### 💫 The Creative Spark
 
 ✨ I code with logic, but I live with passion. Here's a glimpse into the soulful side of me:
 
@@ -38,6 +32,7 @@
 
 ---
 
-### Let's Connect
+### 🧰 Tech Stack
 
-<p align="center"> <a href="https://www.linkedin.com/in/palak-aggarwal-77b645323"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a> <a href="mailto:palakaggarwalaol@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a> <a href="https://github.com/PalakAggarwal13"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a> </p>
+```js
+const techStack = [ "React", "Node.js", "Express", "MongoDB", "JavaScript", "HTML5", "CSS3", "Git"];
