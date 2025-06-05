@@ -13,7 +13,7 @@
 - 🌱 Learning *AI/ML* for *GSoC 2026*
 - 💬 Ask me about *React, Node, MongoDB, Express, EJS*
 - 📫 Reach me at *[palakaggarwalaol@gmail.com](mailto:palakaggarwalaol@gmail.com)*  
-- ⚡ Fun fact: I Develop more than I sleep 😅
+- ⚡ Fun fact: Code by day, chords by night, and cockpit dreams in between.
 
 ---
 
