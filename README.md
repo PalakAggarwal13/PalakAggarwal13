@@ -36,3 +36,13 @@
 
 ```js
 const techStack = [ "React", "Node.js", "Express", "MongoDB", "JavaScript", "HTML5", "CSS3", "Git"];
+```
+
+---
+
+### Github Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PalakAggarwal13&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PalakAggarwal13&theme=tokyonight" width="48%" /> </p>
+
+### Let's Connect
+
+<p align="center"> <a href="https://www.linkedin.com/in/palak-aggarwal-77b645323"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a> <a href="mailto:palakaggarwalaol@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a> <a href="https://github.com/PalakAggarwal13"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a> </p>
