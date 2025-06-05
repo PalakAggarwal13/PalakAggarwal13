@@ -35,3 +35,9 @@
 
 - ✈️ **Aviation Admirer** – *Dreams above the clouds*  
 &nbsp;&nbsp;&nbsp;&nbsp;*Fascinated by the elegance of flight and the engineering that makes it possible.*
+
+---
+
+### Let's Connect
+
+<p align="center"> <a href="https://www.linkedin.com/in/palak-aggarwal-77b645323"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a> <a href="mailto:palakaggarwalaol@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a> <a href="https://github.com/PalakAggarwal13"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" /></a> </p>
