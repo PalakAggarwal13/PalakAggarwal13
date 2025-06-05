@@ -19,5 +19,5 @@
 
 ### 🛠 Tech Stack
 
-<javascript>
-const techStack = ["React", "Node", "Express", "MongoDB", "JavaScript", "HTML", "CSS", "Git"]; />
+<javascript/>
+const techStack = ["React", "Node", "Express", "MongoDB", "JavaScript", "HTML", "CSS", "Git"]; 
