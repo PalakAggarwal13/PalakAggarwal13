@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PalakAggarwal13/PalakAggarwal13/main/banner.png" alt="Palak Aggarwal Banner" />
+</p>
+
+
 <h1 align="center">👋 Hey there, I'm <span style="color:#6c63ff">Palak Aggarwal</span></h1>
 <h3 align="center">💻 MERN Stack Developer | 🌐 Web Enthusiast | 🧠 AI/ML Explorer | 🎯 Future GSoC Contributor</h3>
 
